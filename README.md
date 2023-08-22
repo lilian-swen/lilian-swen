@@ -2,7 +2,7 @@
  * @Author: greensure 16623234+greensure@users.noreply.github.com
  * @Date: 2023-08-20 08:41:31
  * @LastEditors: greensure 16623234+greensure@users.noreply.github.com
- * @LastEditTime: 2023-08-22 11:49:27
+ * @LastEditTime: 2023-08-22 13:29:19
  * @FilePath: \GitHubLilian\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -37,7 +37,7 @@
 | ID | Course | Completion  | Grade Achieved|
 | ----------- | ----------- | ----------- |  ----------- |
 |(1)| Introduction to Big Data|[Certificate](https://coursera.org/share/c0852e1f51c212a7d435168ba9d66d3f)| 96.99% |
-|(2)| Big Data Modeling and Management Systems|[Certificate]()|  
+|(2)| Big Data Modeling and Management Systems|[Certificate](https://www.coursera.org/account/accomplishments/certificate/VS2PZ4JU99WT)| 97.77% 
 |(3)| Big Data Integration and Processing|[Certificate]()|   
 |(4)| Machine Learning with Big Data|[Certificate]()|   
 |(5)| Graph Analytics for Big Data|[Certificate]()|   
