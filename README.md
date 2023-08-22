@@ -2,7 +2,7 @@
  * @Author: greensure 16623234+greensure@users.noreply.github.com
  * @Date: 2023-08-20 08:41:31
  * @LastEditors: greensure 16623234+greensure@users.noreply.github.com
- * @LastEditTime: 2023-08-21 15:33:08
+ * @LastEditTime: 2023-08-22 11:49:27
  * @FilePath: \GitHubLilian\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -24,8 +24,9 @@
 ## Generative AI
 
 ### 1. Generative AI with Large Language Models
-DeepLearning.AI
->In process
+>by DeepLearning.AI & Amazon Web Services
+
+[Certificate](https://coursera.org/share/23de906947643639281abd0d30f301d3) | Grade Achieved: 100%
 
 ## Big Data 
 ### 1. Big Data Specialization
