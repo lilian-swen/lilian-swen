@@ -1,11 +1,4 @@
-<!--
- * @Author: greensure 16623234+greensure@users.noreply.github.com
- * @Date: 2023-08-20 08:41:31
- * @LastEditors: greensure 16623234+greensure@users.noreply.github.com
- * @LastEditTime: 2023-09-01 14:40:54
- * @FilePath: \GitHubLilian\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
+
 ### Hi there, I'm Lilian 👋
 
 - 🔭 I am a seasoned developer with extensive experience and a robust skill set in programming, data science, and statistical analysis. Over the course of 5+ years in the industry, I have refined my expertise through immersive involvement in enterprise web application development, big data services, and machine learning projects. 
@@ -37,10 +30,10 @@
 | ID | Course | Completion  | Grade Achieved|
 | ----------- | ----------- | ----------- |  ----------- |
 |(1)| Introduction to Big Data|[Certificate](https://coursera.org/share/c0852e1f51c212a7d435168ba9d66d3f)| 96.99% |
-|(2)| Big Data Modeling and Management Systems|[Certificate](https://www.coursera.org/account/accomplishments/certificate/VS2PZ4JU99WT)| 97.77% 
-|(3)| Big Data Integration and Processing|[Certificate](https://coursera.org/share/1bf1062d526a9f9977dac427951c698f)| 100%  
-|(4)| Machine Learning with Big Data|[Certificate](https://coursera.org/share/d6547b60499c7c234f3e68584a6bb5fd)| 100%     
-|(5)| Graph Analytics for Big Data|[Certificate]()|   
+|(2)| Big Data Modeling and Management Systems|[Certificate](https://www.coursera.org/account/accomplishments/certificate/VS2PZ4JU99WT)| 97.77% |
+|(3)| Big Data Integration and Processing|[Certificate](https://coursera.org/share/1bf1062d526a9f9977dac427951c698f)| 100% |
+|(4)| Machine Learning with Big Data|[Certificate](https://coursera.org/share/d6547b60499c7c234f3e68584a6bb5fd)| 100% |   
+|(5)| Graph Analytics for Big Data|[Certificate](https://coursera.org/share/1928f08ecd99efddd202f3665d0e4a77)| 95.45% |  
 |(6)| Big Data-Capstone Project|[Certificate]()|   
 
 
@@ -94,6 +87,15 @@
 |(4)| Convolutional Neural Networks|[Certificate]()| TODO |
 |(5)| Sequence Models |[Certificate]()| TODO |
 
+## DeepLearning.AI TensorFlow Developer Professional Certificate
+
+>4 course series | Stanford University & DeepLearning.AI | Instructor: Laurence Moroney
+| ID | Course | Completion  | Grade Achieved|
+| ----------- | ----------- | ----------- |  ----------- |
+|(1)| Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning |[Certificate]()| Doing |
+|(2)| Convolutional Neural Networks in TensorFlow |[Certificate]()| TODO |
+|(3)| Natural Language Processing in TensorFlow|[Certificate]()| TODO |
+|(4)| Sequences, Time Series and Prediction |[Certificate]()| TODO |
 
 # MLOps >>>
 
@@ -105,3 +107,51 @@
 |(3)| Machine Learning Modeling Pipelines in Production|[Certificate]()| TODO |
 |(4)| Convolutional Neural Networks|[Certificate]()| TODO |
 |(5)| Deploying Machine Learning Models in Production |[Certificate]()| TODO |
+
+
+# Cloud Computing >>>
+
+## 1. Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate
+[Badge]() | [Professional Certificate]()
+
+>9 course series | Google Cloud Training
+
+
+| ID | Course | Completion  | Grade Achieved|
+| ----------- | ----------- | ----------- |  ----------- |
+|(1)| Google Cloud Big Data and Machine Learning Fundamentals |[Certificate](https://coursera.org/share/b9cc822cf713c0b81aa1c60bb69784c1)| 100% |
+|(2)| How Google does Machine Learning |[Certificate]()| Doing |
+|(3)| Launching into Machine Learning|[Certificate]()| Doing |
+|(4)| TensorFlow on Google Cloud|[Certificate]()| Doing |
+|(5)| Feature Engineering |[Certificate]()| TODO |
+|(6)| Machine Learning in the Enterprise |[Certificate]()| Doing |
+|(7)| Production Machine Learning Systems |[Certificate]()| TODO |
+|(8)| Machine Learning Operations (MLOps): Getting Started|[Certificate]()| TODO |
+|(9)| ML Pipelines on Google Cloud|[Certificate]()| TODO |
+
+# AI Related 
+
+## 1. Image Processing for Engineering and Science Specialization
+[Badge]() | [Professional Certificate]()
+
+>3 course series | By MathWorks
+
+
+| ID | Course | Completion  | Grade Achieved|
+| ----------- | ----------- | ----------- |  ----------- |
+|(0)| MATLAB Onramp |[Certificate]()| Doing |
+|(1)| Introduction to Image Processing |[Certificate]()| Doing |
+|(2)| Image Segmentation, Filtering, and Region Analysis |[Certificate]()| Doing |
+|(3)| Automating Image Processing|[Certificate]()| Doing |
+
+## 2. Neuroscience and Neuroimaging Specialization
+
+>4 course series | By Johns Hopkins University
+
+
+| ID | Course | Completion  | Grade Achieved|
+| ----------- | ----------- | ----------- |  ----------- |
+|(0)| Fundamental Neuroscience for Neuroimaging |[Certificate]()| Doing |
+|(1)| Principles of fMRI 1 |[Certificate]()| Doing |
+|(2)| Principles of fMRI 2 |[Certificate]()| Doing |
+|(3)| Introduction to Neurohacking In R|[Certificate]()| Doing |
