@@ -90,6 +90,7 @@
 ## DeepLearning.AI TensorFlow Developer Professional Certificate
 
 >4 course series | Stanford University & DeepLearning.AI | Instructor: Laurence Moroney
+
 | ID | Course | Completion  | Grade Achieved|
 | ----------- | ----------- | ----------- |  ----------- |
 |(1)| Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning |[Certificate]()| Doing |
