@@ -103,11 +103,10 @@
 ## Machine Learning Engineering for Production (MLOps) Specialization
 | ID | Course | Completion  | Grade Achieved|
 | ----------- | ----------- | ----------- |  ----------- |
-|(1)| Introduction to Machine Learning in Production |[Certificate]()| Doing |
-|(2)| Machine Learning Data Lifecycle in Production |[Certificate]()| TODO |
-|(3)| Machine Learning Modeling Pipelines in Production|[Certificate]()| TODO |
-|(4)| Convolutional Neural Networks|[Certificate]()| TODO |
-|(5)| Deploying Machine Learning Models in Production |[Certificate]()| TODO |
+|(1)| Introduction to Machine Learning in Production |[Certificate](https://coursera.org/share/006434c6e51b1f125f03f722b05f6324)| 100% |
+|(2)| Machine Learning Data Lifecycle in Production |[Certificate]()| Doing |
+|(3)| Machine Learning Modeling Pipelines in Production|[Certificate]()| Doing |
+|(4)| Deploying Machine Learning Models in Production |[Certificate]()| TODO |
 
 
 # Cloud Computing >>>
