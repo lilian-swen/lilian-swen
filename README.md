@@ -22,8 +22,10 @@
 [Certificate](https://coursera.org/share/23de906947643639281abd0d30f301d3) | Grade Achieved: 100%
 
 ## Big Data >>> 
+
 ### 1. Big Data Specialization
-[Badge]() | [Professional Certificate]()
+[Badge](https://www.coursera.org/account/accomplishments/specialization/TFLA8QL6788Q) | [Professional Certificate](
+https://www.coursera.org/account/accomplishments/specialization/certificate/TFLA8QL6788Q) | Sponsored by The American Dream Academy
 
 >6 course series | Universtity of California San Diego
 
@@ -34,8 +36,11 @@
 |(3)| Big Data Integration and Processing|[Certificate](https://coursera.org/share/1bf1062d526a9f9977dac427951c698f)| 100% |
 |(4)| Machine Learning with Big Data|[Certificate](https://coursera.org/share/d6547b60499c7c234f3e68584a6bb5fd)| 100% |   
 |(5)| Graph Analytics for Big Data|[Certificate](https://coursera.org/share/1928f08ecd99efddd202f3665d0e4a77)| 95.45% |  
-|(6)| Big Data-Capstone Project|[Certificate]()|   
+|(6)| Big Data-Capstone Project|[Certificate](https://coursera.org/share/4425530baa12dbb1d6f32a2651e44314)| 97.44%|  
 
+### 2. Introduction to Big Data with Spark and Hadoop
+> By IBM | Sponsored by The American Dream Academy
+Doing
 
 ## Data Analysis >>>
 ### 1. Google Data Analytics
@@ -66,7 +71,7 @@
 
 | ID | Course | Completion  | Grade Achieved|
 | ----------- | ----------- | ----------- |  ----------- |
-|(1)| Supervised Machine Learning: Regression and Classification|[Certificate]()| Doing |
+|(1)| Supervised Machine Learning: Regression and Classification|[Certificate](https://coursera.org/share/677b477121b4ba9bc248b08f295613e9)| 100% |
 |(2)| Advanced Learning Algorithms|[Certificate]()| Doing |
 |(3)| Unsupervised Learning, Recommenders, Reinforcement Learning|[Certificate]()| TODO |
 
