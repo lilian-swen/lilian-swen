@@ -1,10 +1,22 @@
 
 ### Hi there, I'm Lilian 👋
 
-- 🔭 I am a seasoned developer with extensive experience and a robust skill set in programming, data science, and statistical analysis. Over the course of 5+ years in the industry, I have refined my expertise through immersive involvement in enterprise web application development, big data services, and machine learning projects. 
+🔭 I am a seasoned developer with strong programming and troubleshooting skills. Over the course of 5+ years in the industry, I have refined my expertise through immersive involvement in enterprise web application development, big data pipelines, traditional machine learning projects. My journey as a developer has equipped me with a deep understanding of the complete software development lifecycle, enabling me to deliver robust and efficient solutions.
+<br>
+As an enthusiastic learner, I thrive on embracing emerging technologies and methodologies. My adaptability and innovative spirit allow me to integrate cutting-edge solutions into my work seamlessly. Throughout my career, I have demonstrated a keen aptitude for problem-solving, swiftly tackling challenges, and troubleshooting with finesse.
+
+My key professional skills include:
+💠 Experienced in programming languages & scripting languages: Java, Python, R, SQL, PL/ SQL, Javascript, Shell, etc. 
+💠 Experienced in Databases: MySQL, PostgreSQL, Oracle DB, SQLite & MongoDB, Redis & RDBMS, Database Backup and Recovery, Data Modeling, Database Maintenance & Documentation;
+💠 Hand-on Practice in Big Data: Data Warehousing (Amazon Redshift & Google BigQuery ), ETL (Extract, Transform, Load);
+💠 Hands-on experience in Microservices, Enterprise Web Application Development, Machine Learning Development, Data Mining.
+💠 Diligent Backend Developer with extensive experience in Agile (Scrum, DevOps, MLOps, Docker), CI/CD(Git, GitLab, Maven, Gradle, Jenkins).
+💠 Effective communication with stakeholders and technical decision-makers to solve problems through technology, translating complex technical concepts into non-technical terms.
+
+
 <br>
 
-- 🌱 I am currently pursuing AI-related subjects in the Master of Computer Science program at Illinois Tech, and I am on track to graduate in December 2023. My primary interest lies in conducting research within healthcare-related fields.
+- 🌱 I am currently pursuing AI-related subjects in the Master of Computer Science program at Illinois Tech, and I am on track to graduate in December 2023. My primary interest lies in Big Data, Machine Learning, MLOps.
 <br>
 
 - 📫 How to reach me: <br>
@@ -14,12 +26,16 @@
 
 # Online Courses I Completed
 
-## Generative AI >>>
+## NLP & Generative AI >>>
 
-### 1. Generative AI with Large Language Models
->by DeepLearning.AI & Amazon Web Services
+### 1. Generative AI & LLMs >>>
 
-[Certificate](https://coursera.org/share/23de906947643639281abd0d30f301d3) | Grade Achieved: 100%
+| ID | Course | Offered By|Completion  | Grade Achieved| 
+| ----------- | ----------- | ----------- |  ----------- | ----------- |
+|(1)|Generative AI with Large Language Models|DeepLearning.AI & AWS|[Certificate](https://coursera.org/share/23de906947643639281abd0d30f301d3)|100% | 
+|(2)|Introduction to Generative AI Studio|Google Cloud|[Certificate](https://coursera.org/share/bbfb8b0cef4c66109661b540a400704c)| 100% |
+|(3)|Introduction to Generative AI|Google Cloud|[Certificate](https://coursera.org/share/481780483468982bd32903facb5f6646)| 100% |
+|(4)|Introduction to Large Language Models|Google Cloud|[Certificate](https://coursera.org/share/89b2f8ed16a6d8f76e1f10699de27ef8)| 75% |
 
 ## Big Data >>> 
 
@@ -34,7 +50,7 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/TFLA
 |(1)| Introduction to Big Data|[Certificate](https://coursera.org/share/c0852e1f51c212a7d435168ba9d66d3f)| 96.99% |
 |(2)| Big Data Modeling and Management Systems|[Certificate](https://www.coursera.org/account/accomplishments/certificate/VS2PZ4JU99WT)| 97.77% |
 |(3)| Big Data Integration and Processing|[Certificate](https://coursera.org/share/1bf1062d526a9f9977dac427951c698f)| 100% |
-|(4)| Machine Learning with Big Data|[Certificate](https://coursera.org/share/d6547b60499c7c234f3e68584a6bb5fd)| 100% |   
+|(4)| Machine Learning with Big Data|[Certificate](https://www.coursera.org/account/accomplishments/verify/UVSBF2FZY5LM)| 100% |   
 |(5)| Graph Analytics for Big Data|[Certificate](https://coursera.org/share/1928f08ecd99efddd202f3665d0e4a77)| 95.45% |  
 |(6)| Big Data-Capstone Project|[Certificate](https://coursera.org/share/4425530baa12dbb1d6f32a2651e44314)| 97.44%|  
 
@@ -44,7 +60,7 @@ Doing
 
 ## Data Analysis >>>
 ### 1. Google Data Analytics
-[Badge](https://www.credly.com/earner/earned/badge/9f9ff9fd-a887-49b5-9ad0-d64f5ef2fa53) | [Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/SS93GJY7WKET)
+[Badge](https://www.credly.com/earner/earned/badge/9f9ff9fd-a887-49b5-9ad0-d64f5ef2fa53) | [Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/SS93GJY7WKET) | Sponsored by The American Dream Academy
 
 >8 course series | Google Career Certificates
 
@@ -64,25 +80,34 @@ Doing
 # Machine Learning >>>
 
 ## 1. Machine Learning Specialization
-[Badge]() | [Professional Certificate]()
+[Badge]() | [Professional Certificate]() | Sponsored by The American Dream Academy
 
 >3 course series | Stanford University & DeepLearning.AI
 
+| ID | Course | Completion  | Grade Achieved|
+| ----------- | ----------- | ----------- |  ----------- |
+|(1)| Supervised Machine Learning: Regression and Classification|[Certificate](https://coursera.org/share/677b477121b4ba9bc248b08f295613e9)|100%|
+|(2)| Advanced Learning Algorithms|[Certificate](https://coursera.org/share/436a2d4a46d9fba14ec738572a6e0269)|100%|
+|(3)| Unsupervised Learning, Recommenders, Reinforcement Learning|[Certificate]()| Doing |
+
+## 2. Machine Learning Engineering for Production (MLOps) Specialization
+
+[Badge]() | [Professional Certificate]() | Sponsored by The American Dream Academy
 
 | ID | Course | Completion  | Grade Achieved|
 | ----------- | ----------- | ----------- |  ----------- |
-|(1)| Supervised Machine Learning: Regression and Classification|[Certificate](https://coursera.org/share/677b477121b4ba9bc248b08f295613e9)| 100% |
-|(2)| Advanced Learning Algorithms|[Certificate]()| Doing |
-|(3)| Unsupervised Learning, Recommenders, Reinforcement Learning|[Certificate]()| TODO |
-
+|(1)| Introduction to Machine Learning in Production |[Certificate](https://coursera.org/share/006434c6e51b1f125f03f722b05f6324)| 100% |
+|(2)| Machine Learning Data Lifecycle in Production |[Certificate]()| Doing |
+|(3)| Machine Learning Modeling Pipelines in Production|[Certificate]()| Doing |
+|(4)| Deploying Machine Learning Models in Production |[Certificate]()| TODO |
 
 # Deep Learning >>>
 
 ## 1. Deep Learning Specialization
-[Badge]() | [Professional Certificate]()
+
+[Badge]() | [Professional Certificate]() | Sponsored by The American Dream Academy
 
 >5 course series | Stanford University & DeepLearning.AI
-
 
 | ID | Course | Completion  | Grade Achieved|
 | ----------- | ----------- | ----------- |  ----------- |
@@ -92,7 +117,10 @@ Doing
 |(4)| Convolutional Neural Networks|[Certificate]()| TODO |
 |(5)| Sequence Models |[Certificate]()| TODO |
 
+
+
 ## DeepLearning.AI TensorFlow Developer Professional Certificate
+[Badge]() | [Professional Certificate]() | Sponsored by The American Dream Academy
 
 >4 course series | Stanford University & DeepLearning.AI | Instructor: Laurence Moroney
 
@@ -103,21 +131,12 @@ Doing
 |(3)| Natural Language Processing in TensorFlow|[Certificate]()| TODO |
 |(4)| Sequences, Time Series and Prediction |[Certificate]()| TODO |
 
-# MLOps >>>
-
-## Machine Learning Engineering for Production (MLOps) Specialization
-| ID | Course | Completion  | Grade Achieved|
-| ----------- | ----------- | ----------- |  ----------- |
-|(1)| Introduction to Machine Learning in Production |[Certificate](https://coursera.org/share/006434c6e51b1f125f03f722b05f6324)| 100% |
-|(2)| Machine Learning Data Lifecycle in Production |[Certificate]()| Doing |
-|(3)| Machine Learning Modeling Pipelines in Production|[Certificate]()| Doing |
-|(4)| Deploying Machine Learning Models in Production |[Certificate]()| TODO |
 
 
 # Cloud Computing >>>
 
 ## 1. Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate
-[Badge]() | [Professional Certificate]()
+[Badge]() | [Professional Certificate]() | Sponsored by The American Dream Academy
 
 >9 course series | Google Cloud Training
 
@@ -125,7 +144,7 @@ Doing
 | ID | Course | Completion  | Grade Achieved|
 | ----------- | ----------- | ----------- |  ----------- |
 |(1)| Google Cloud Big Data and Machine Learning Fundamentals |[Certificate](https://coursera.org/share/b9cc822cf713c0b81aa1c60bb69784c1)| 100% |
-|(2)| How Google does Machine Learning |[Certificate]()| Doing |
+|(2)| How Google does Machine Learning |[Certificate](https://coursera.org/share/5f27d2b99e755b41a544fc87366e7418)| 100% |
 |(3)| Launching into Machine Learning|[Certificate]()| Doing |
 |(4)| TensorFlow on Google Cloud|[Certificate]()| Doing |
 |(5)| Feature Engineering |[Certificate]()| TODO |
@@ -134,29 +153,3 @@ Doing
 |(8)| Machine Learning Operations (MLOps): Getting Started|[Certificate]()| TODO |
 |(9)| ML Pipelines on Google Cloud|[Certificate]()| TODO |
 
-# AI Related 
-
-## 1. Image Processing for Engineering and Science Specialization
-[Badge]() | [Professional Certificate]()
-
->3 course series | By MathWorks
-
-
-| ID | Course | Completion  | Grade Achieved|
-| ----------- | ----------- | ----------- |  ----------- |
-|(0)| MATLAB Onramp |[Certificate]()| Doing |
-|(1)| Introduction to Image Processing |[Certificate]()| Doing |
-|(2)| Image Segmentation, Filtering, and Region Analysis |[Certificate]()| Doing |
-|(3)| Automating Image Processing|[Certificate]()| Doing |
-
-## 2. Neuroscience and Neuroimaging Specialization
-
->4 course series | By Johns Hopkins University
-
-
-| ID | Course | Completion  | Grade Achieved|
-| ----------- | ----------- | ----------- |  ----------- |
-|(0)| Fundamental Neuroscience for Neuroimaging |[Certificate]()| Doing |
-|(1)| Principles of fMRI 1 |[Certificate]()| Doing |
-|(2)| Principles of fMRI 2 |[Certificate]()| Doing |
-|(3)| Introduction to Neurohacking In R|[Certificate]()| Doing |
