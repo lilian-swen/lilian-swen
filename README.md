@@ -6,6 +6,7 @@
 As an enthusiastic learner, I thrive on embracing emerging technologies and methodologies. My adaptability and innovative spirit allow me to integrate cutting-edge solutions into my work seamlessly. Throughout my career, I have demonstrated a keen aptitude for problem-solving, swiftly tackling challenges, and troubleshooting with finesse.
 
 My key professional skills include:
+<br>
 💠 Experienced in programming languages & scripting languages: Java, Python, R, SQL, PL/ SQL, Javascript, Shell, etc. 
 <br>
 💠 Experienced in Databases: MySQL, PostgreSQL, Oracle DB, SQLite & MongoDB, Redis & RDBMS, Database Backup and Recovery, Data Modeling, Database Maintenance & Documentation;
