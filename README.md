@@ -7,12 +7,14 @@ As an enthusiastic learner, I thrive on embracing emerging technologies and meth
 
 My key professional skills include:
 💠 Experienced in programming languages & scripting languages: Java, Python, R, SQL, PL/ SQL, Javascript, Shell, etc. 
+<br>
 💠 Experienced in Databases: MySQL, PostgreSQL, Oracle DB, SQLite & MongoDB, Redis & RDBMS, Database Backup and Recovery, Data Modeling, Database Maintenance & Documentation;
-💠 Hand-on Practice in Big Data: Data Warehousing (Amazon Redshift & Google BigQuery ), ETL (Extract, Transform, Load);
-💠 Hands-on experience in Microservices, Enterprise Web Application Development, Machine Learning Development, Data Mining.
+<br>
+💠 Hand-on Practice in Big Data: Data Warehousing (Amazon Redshift & Google BigQuery ), ETL (Extract, Transform, Load);<br>
+💠 Hands-on experience in Microservices, Enterprise Web Application Development, Machine Learning Development, Data Mining.<br>
 💠 Diligent Backend Developer with extensive experience in Agile (Scrum, DevOps, MLOps, Docker), CI/CD(Git, GitLab, Maven, Gradle, Jenkins).
+<br>
 💠 Effective communication with stakeholders and technical decision-makers to solve problems through technology, translating complex technical concepts into non-technical terms.
-
 
 <br>
 
