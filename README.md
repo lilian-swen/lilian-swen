@@ -43,8 +43,7 @@ My key professional skills include:
 ## Big Data >>> 
 
 ### 1. Big Data Specialization
-[Badge](https://www.coursera.org/account/accomplishments/specialization/TFLA8QL6788Q) | [Professional Certificate](
-https://www.coursera.org/account/accomplishments/specialization/certificate/TFLA8QL6788Q) | Sponsored by The American Dream Academy
+[Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/TFLA8QL6788Q) | Sponsored by The American Dream Academy
 
 >6 course series | Universtity of California San Diego
 
@@ -60,6 +59,32 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/TFLA
 ### 2. Introduction to Big Data with Spark and Hadoop
 > By IBM | Sponsored by The American Dream Academy
 Doing
+
+
+
+# Machine Learning >>>
+
+## 1. Machine Learning Specialization
+[Professional Certificate](https://coursera.org/share/f5611b6b7bc0fbb64b90043bcd4ef7c4) | Sponsored by The American Dream Academy
+
+>3 course series | Stanford University & DeepLearning.AI
+
+| ID | Course | Completion  | Grade Achieved|
+| ----------- | ----------- | ----------- |  ----------- |
+|(1)| Supervised Machine Learning: Regression and Classification|[Certificate](https://coursera.org/share/677b477121b4ba9bc248b08f295613e9)|100%|
+|(2)| Advanced Learning Algorithms|[Certificate](https://coursera.org/share/436a2d4a46d9fba14ec738572a6e0269)|100%|
+|(3)| Unsupervised Learning, Recommenders, Reinforcement Learning|[Certificate](https://coursera.org/share/dfeb57fdc6e0cec31fc53a4c9dcdc74a)| 100% |
+
+## 2. Machine Learning Engineering for Production (MLOps) Specialization
+
+[Badge]() | [Professional Certificate]() | Sponsored by The American Dream Academy
+
+| ID | Course | Completion  | Grade Achieved|
+| ----------- | ----------- | ----------- |  ----------- |
+|(1)| Introduction to Machine Learning in Production |[Certificate](https://coursera.org/share/006434c6e51b1f125f03f722b05f6324)| 100% |
+|(2)| Machine Learning Data Lifecycle in Production |[Certificate]()| Doing |
+|(3)| Machine Learning Modeling Pipelines in Production|[Certificate]()| Doing |
+|(4)| Deploying Machine Learning Models in Production |[Certificate]()| TODO |
 
 ## Data Analysis >>>
 ### 1. Google Data Analytics
@@ -79,30 +104,6 @@ Doing
 |(8)| Share Data Through the Art of Visualization|[Certificate](https://coursera.org/share/dfd3e170de370cd22788e6b2fe051158)| 96.56%|  
 
 >Completed eight courses, developed by Google, that include hands-on, practice-based assessments. Tools and platforms including spreadsheets, SQL, Tableau, and R.
-
-# Machine Learning >>>
-
-## 1. Machine Learning Specialization
-[Badge]() | [Professional Certificate]() | Sponsored by The American Dream Academy
-
->3 course series | Stanford University & DeepLearning.AI
-
-| ID | Course | Completion  | Grade Achieved|
-| ----------- | ----------- | ----------- |  ----------- |
-|(1)| Supervised Machine Learning: Regression and Classification|[Certificate](https://coursera.org/share/677b477121b4ba9bc248b08f295613e9)|100%|
-|(2)| Advanced Learning Algorithms|[Certificate](https://coursera.org/share/436a2d4a46d9fba14ec738572a6e0269)|100%|
-|(3)| Unsupervised Learning, Recommenders, Reinforcement Learning|[Certificate]()| Doing |
-
-## 2. Machine Learning Engineering for Production (MLOps) Specialization
-
-[Badge]() | [Professional Certificate]() | Sponsored by The American Dream Academy
-
-| ID | Course | Completion  | Grade Achieved|
-| ----------- | ----------- | ----------- |  ----------- |
-|(1)| Introduction to Machine Learning in Production |[Certificate](https://coursera.org/share/006434c6e51b1f125f03f722b05f6324)| 100% |
-|(2)| Machine Learning Data Lifecycle in Production |[Certificate]()| Doing |
-|(3)| Machine Learning Modeling Pipelines in Production|[Certificate]()| Doing |
-|(4)| Deploying Machine Learning Models in Production |[Certificate]()| TODO |
 
 # Deep Learning >>>
 
