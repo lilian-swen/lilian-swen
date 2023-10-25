@@ -43,18 +43,7 @@ My key professional skills include:
 
 # Online Courses I Completed
 
-## NLP & Generative AI >>>
-
-### 1. Generative AI & LLMs >>>
-
-| ID | Course | Offered By|Completion  | Grade Achieved| 
-| ----------- | ----------- | ----------- |  ----------- | ----------- |
-|(1)|Generative AI with Large Language Models|DeepLearning.AI & AWS|[Certificate](https://coursera.org/share/23de906947643639281abd0d30f301d3)|100% | 
-|(2)|Introduction to Generative AI Studio|Google Cloud|[Certificate](https://coursera.org/share/bbfb8b0cef4c66109661b540a400704c)| 100% |
-|(3)|Introduction to Generative AI|Google Cloud|[Certificate](https://coursera.org/share/481780483468982bd32903facb5f6646)| 100% |
-|(4)|Introduction to Large Language Models|Google Cloud|[Certificate](https://coursera.org/share/89b2f8ed16a6d8f76e1f10699de27ef8)| 75% |
-
-## Big Data >>> 
+## Big Data Technologies>>> 
 
 ### 1. Big Data Specialization
 [Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/TFLA8QL6788Q) | Sponsored by The American Dream Academy
@@ -72,7 +61,8 @@ My key professional skills include:
 
 ### 2. Introduction to Big Data with Spark and Hadoop
 > By IBM | Sponsored by The American Dream Academy
-Doing
+
+[Certificate](https://www.coursera.org/account/accomplishments/certificate/EKA4XPTARXJX) | Grade Achieved: 92.40%
 
 
 
@@ -89,6 +79,8 @@ Doing
 |(2)| Advanced Learning Algorithms|[Certificate](https://coursera.org/share/436a2d4a46d9fba14ec738572a6e0269)|100%|
 |(3)| Unsupervised Learning, Recommenders, Reinforcement Learning|[Certificate](https://coursera.org/share/dfeb57fdc6e0cec31fc53a4c9dcdc74a)| 100% |
 
+<br>
+
 ## 2. Machine Learning Engineering for Production (MLOps) Specialization
 
 [Badge]() | [Professional Certificate]() | Sponsored by The American Dream Academy
@@ -99,6 +91,20 @@ Doing
 |(2)| Machine Learning Data Lifecycle in Production |[Certificate]()| Doing |
 |(3)| Machine Learning Modeling Pipelines in Production|[Certificate]()| Doing |
 |(4)| Deploying Machine Learning Models in Production |[Certificate]()| TODO |
+
+<br>
+
+## NLP & Generative AI >>>
+
+### 1. Generative AI & LLMs >>>
+
+| ID | Course | Offered By|Completion  | Grade Achieved| 
+| ----------- | ----------- | ----------- |  ----------- | ----------- |
+|(1)|Generative AI with Large Language Models|DeepLearning.AI & AWS|[Certificate](https://coursera.org/share/23de906947643639281abd0d30f301d3)|100% | 
+|(2)|Introduction to Generative AI Studio|Google Cloud|[Certificate](https://coursera.org/share/bbfb8b0cef4c66109661b540a400704c)| 100% |
+|(3)|Introduction to Generative AI|Google Cloud|[Certificate](https://coursera.org/share/481780483468982bd32903facb5f6646)| 100% |
+|(4)|Introduction to Large Language Models|Google Cloud|[Certificate](https://coursera.org/share/89b2f8ed16a6d8f76e1f10699de27ef8)| 75% |
+
 
 ## Data Analysis >>>
 ### 1. Google Data Analytics
