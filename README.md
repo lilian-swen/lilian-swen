@@ -27,6 +27,20 @@ My key professional skills include:
 🔗 www.linkedin.com/in/lilian-swen <br>
 🔗 https://github.com/lilian-swen <br>
 
+# Projects
+- [Assessing Privacy and Utility of Applying Gaussian Differential Privacy to Heart Disease Data](https://github.com/lilian-swen/ApplyingGPDtoHeartDiseaseData)
+> Feb 2023 - Apr 2023
+
+- [Mall Customer Segmentation with K-means Clustering](https://github.com/lilian-swen/MallCustomerSegmentation)
+> Sep 2022 - Nov 2022
+
+
+- Compressor Selection Platform with Machine Learning Models Implement
+
+
+- Intelligent Trailer Routing Optimization System
+
+
 # Online Courses I Completed
 
 ## NLP & Generative AI >>>
