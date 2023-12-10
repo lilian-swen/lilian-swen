@@ -1,32 +1,41 @@
 
 ### Hi there, I'm Lilian 👋
 
-🔭 I am a seasoned developer with strong programming and troubleshooting skills. Over the course of 5+ years in the industry, I have refined my expertise through immersive involvement in enterprise web application development, big data pipelines, traditional machine learning projects. My journey as a developer has equipped me with a deep understanding of the complete software development lifecycle, enabling me to deliver robust and efficient solutions.
-<br>
-As an enthusiastic learner, I thrive on embracing emerging technologies and methodologies. My adaptability and innovative spirit allow me to integrate cutting-edge solutions into my work seamlessly. Throughout my career, I have demonstrated a keen aptitude for problem-solving, swiftly tackling challenges, and troubleshooting with finesse.
+● I have 6ish years of hands-on experience in industrial Enterprise Application Development, specializing in Data Application Development, Big Data Development, and Machine Learning Development.
 
-My key professional skills include:
-<br>
-💠 Experienced in programming languages & scripting languages: Java, Python, R, SQL, PL/ SQL, Javascript, Shell, etc. 
-<br>
-💠 Experienced in Databases: MySQL, PostgreSQL, Oracle DB, SQLite & MongoDB, Redis & RDBMS, Database Backup and Recovery, Data Modeling, Database Maintenance & Documentation;
-<br>
-💠 Hand-on Practice in Big Data: Data Warehousing (Amazon Redshift & Google BigQuery ), ETL (Extract, Transform, Load);<br>
-💠 Hands-on experience in Microservices, Enterprise Web Application Development, Machine Learning Development, Data Mining.<br>
-💠 Diligent Backend Developer with extensive experience in Agile (Scrum, DevOps, MLOps, Docker), CI/CD(Git, GitLab, Maven, Gradle, Jenkins).
-<br>
-💠 Effective communication with stakeholders and technical decision-makers to solve problems through technology, translating complex technical concepts into non-technical terms.
+● From 2016 to 2021, I collaborated in small to mid-level multifunctional R&D teams, actively participating and gaining hands-on experience in DataOps (data ingestion, data processing/data batch job/ETL, quality assurance, data modeling, data visualization, database interactions, data migration), DevOps, CICD, MLOps.
 
-<br>
+● My development journey has equipped me with a deep understanding of the entire Software Development Lifecycle, Agile Methodologies, Microservices Development Methodologies.
 
-- 🌱 I am currently pursuing AI-related subjects in the Master of Computer Science program at Illinois Tech, and I am on track to graduate in December 2023. My primary interest lies in Big Data, Machine Learning, MLOps.
-<br>
+🏅 From 2017 to 2019, I refactored 7 enterprise web applications, saving $1.2 million for an internal enterprise web platform hosting 12 applications at MathArt Software Co., Ltd (a startup with 200+ staff). 
 
-- 📫 How to reach me: <br>
-📧 lilian.swen@outlook.com <br>
-🔗 www.linkedin.com/in/lilian-swen <br>
-🔗 https://github.com/lilian-swen <br>
+🏅 I served as a lead developer in two traditional machine-learning projects, with one achieving significant breakthroughs in compressor development and earning the third prize in the Shanghai Electric Intelligent Manufacturing AI Competition (2020 "上海电气杯" 工业APP), out of 2,000+ entries. 
 
+⭐️As an enthusiastic learner and a software developer, I embrace emerging technologies and methodologies, seamlessly integrating cutting-edge solutions into my work with adaptability and innovation.
+
+⭐️ My professional skills include:
+
+➡️ Programming & Scripting Languages: Java, Python, R; SQL, PL/SQL, CQL; Javascript; Shell.
+
+➡️ Web Development: Spring Framework, Spring Boot, Spring Cloud; Flask; HTML/CSS, React; RESTful API.
+
+➡️ Database:
+     ● Relational Databases/SQL: MySQL, PostgreSQL, Oracle DB, SQLite.
+     ● Non-Relational Databases/NoSQL: Redis, Apache Cassandra, HBase, MongoDB.
+     ● DBaaS: Amazon RDS, Amazon DynamoDB, IBM Cloudant.
+
+➡️ Hands-on Practice in Big Data Technologies & Development:
+     ● SQL and Query Optimization
+     ● Experience designing, testing, optimizing, and troubleshooting ETL(Extract, Transform, Load) solutions;
+    ● Hands-on practice with Hadoop ecosystem, Spark ecosystem
+
+📣 I am actively seeking opportunities to apply my professional skills and expertise. If you are looking for a dedicated professional who is passionate about staying up-to-date with the latest industry trends and technologies, I would be delighted to connect and discuss potential collaborations.
+
+Let's connect:
+📧 lilian.swen@outlook.com
+🔗 https://github.com/lilian-swen
+🔗 www.linkedin.com/in/lilian-swen
+🔗 https://medium.com/@lilian.swen
 # Projects
 - [Assessing Privacy and Utility of Applying Gaussian Differential Privacy to Heart Disease Data](https://github.com/lilian-swen/ApplyingGPDtoHeartDiseaseData)
 > Feb 2023 - Apr 2023
